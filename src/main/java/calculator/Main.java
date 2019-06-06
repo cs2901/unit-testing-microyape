@@ -7,7 +7,7 @@ public class Main {
     private final static Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
     public void execute(){
-        logger.log(Level.INFO, "Calculadora");
+        logger.log(Level.INFO, "Calculadora OwO");
         logger.log(Level.INFO, "Ingresar una operación separada por un espacio");
         Scanner scan= new Scanner(System.in);
         float n1 = scan.nextFloat();
